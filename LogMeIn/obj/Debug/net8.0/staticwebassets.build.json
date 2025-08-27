@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "F8z7wfqcMmVZmzZe4qY020ix75lMrVhZ7JX9CiVvlxA=",
+  "Source": "LogMeIn",
+  "BasePath": "_content/LogMeIn",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
