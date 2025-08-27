@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LogMeIn\\LogMeIn.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "dkeca_login\\dkeca_login.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
