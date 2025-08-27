@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dkeca_login", "dkeca_login\dkeca_login.csproj", "{61930879-07DF-4F9C-B222-2062AA0FCDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogMeIn", "LogMeIn\LogMeIn.csproj", "{B3904785-3BFF-4CAC-814C-9056E86328FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61930879-07DF-4F9C-B222-2062AA0FCDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61930879-07DF-4F9C-B222-2062AA0FCDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61930879-07DF-4F9C-B222-2062AA0FCDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61930879-07DF-4F9C-B222-2062AA0FCDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3904785-3BFF-4CAC-814C-9056E86328FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3904785-3BFF-4CAC-814C-9056E86328FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3904785-3BFF-4CAC-814C-9056E86328FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3904785-3BFF-4CAC-814C-9056E86328FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC350AE7-AE8F-4D9B-8E55-BF737F06BD0F}
+	EndGlobalSection
+EndGlobal
